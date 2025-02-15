@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yong-Shiuan Diana Lee.
-- 🧠 My expertise include Machine Learning, Functional Data Analysis, Differential Equations and Dynamic Systems, Social Network Analysis, and Survey Data Analysis.
+- 🧠 My expertise includes Machine Learning, Functional Data Analysis, Differential Equations and Dynamic Systems, Social Network Analysis, and Survey Data Analysis.
 - 👀 I’m interested in Statistical Methodology, Signal Processing, Applications to Economics and Finance, and Educational Study.
 - 👩‍🏫 I’m currently Assistant Professor at Department of Applied Mathematics, Feng Chia University, Taiwan (R.O.C.).
 - 🤝 I’m looking to collaborate on Financial Modeling, Educational Study, and more.
